@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\github\e_simple_8-d_simple_8\e_simple_8-d_simple_8\e_simple_8-d_simple_8\main.cpp(61): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+d:\github\e_simple_8-d_simple_8\e_simple_8-d_simple_8\e_simple_8-d_simple_8\main.cpp(79): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\github\e_simple_8-d_simple_8\e_simple_8-d_simple_8\e_simple_8-d_simple_8\main.cpp(93): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\github\e_simple_8-d_simple_8\e_simple_8-d_simple_8\e_simple_8-d_simple_8\main.cpp(142): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  E_SIMPLE_8-D_SIMPLE_8.vcxproj -> D:\GitHub\E_SIMPLE_8-D_SIMPLE_8\E_SIMPLE_8-D_SIMPLE_8\x64\Debug\E_SIMPLE_8-D_SIMPLE_8.exe
